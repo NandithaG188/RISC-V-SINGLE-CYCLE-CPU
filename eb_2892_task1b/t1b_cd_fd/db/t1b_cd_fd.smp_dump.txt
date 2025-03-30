@@ -1,0 +1,7 @@
+
+State Machine - |t1b_cd_fd|current_state
+Name current_state.11 current_state.10 current_state.01 current_state.00 
+current_state.00 0 0 0 0 
+current_state.01 0 0 1 1 
+current_state.10 0 1 0 1 
+current_state.11 1 0 0 1 
